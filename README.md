@@ -27,3 +27,5 @@ Votados el viernes del fin de semana 1. Se revisan al final de cada fin de seman
 ## Material de apoyo
 - [Errores frecuentes](docs/errores-frecuentes.md): se completa entre todos.
 - [Enunciado del E2](docs/e2.md)
+- [Enunciado del E3](docs/e3.md)
+- [Enunciado del E4](docs/e4.md)
